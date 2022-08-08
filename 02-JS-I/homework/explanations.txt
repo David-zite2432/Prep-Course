@@ -1,0 +1,19 @@
+* Variables
+-Son lugares reservados en memoria para gurdar datos.
+
+* Strings
+-Es un tipo de dato para almacenar cadenas de caracteres
+
+* Funciones (argumentos, `return`)
+-Las funciones son un trozo de código independientes al resto del código que realizan una determinada
+operación que luego puede ser usada a lo largo del código.
+-Los arumentos o parámetros son valores pasados a la función que esta luego puede usar para realizar una
+tarea en concreto.
+-La instrucción return sirve para devolver un dato.
+
+* Declaraciones `if`
+-El condicional if nos permite ejecutar un trozo de código solo si se cumple una condición, es decir cuando
+es true.
+
+* Valores booleanos (`true`, `false`)
+-Es un tipo de dato que solo almacena true o false que determinan si algo es verdadero o falso respectivamente.

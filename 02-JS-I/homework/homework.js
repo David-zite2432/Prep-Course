@@ -26,7 +26,7 @@ const nuevoModulo = 21 % 5 === 1;
 // No cambies los nombres de las funciones.
 
 function devolverString(str) {
- return "Hello world"
+ return str;
   
 }
 
@@ -157,23 +157,23 @@ function redondearHaciaArriba(num) {
 }
 
 function numeroRandom() {
-  const resultadoSqrt = Math.round(Math.random() * 100);
+  const resultadoSqrt = Math.random();
   return resultadoSqrt;
   
 }
 
 function esPositivo(numero) {
   if(numero > 0) {
-    return "El número es positivo";
+    return "Es positivo";
 
   } else if(numero < 0) {
-    return "El número es negativo";
+    return "Es negativo";
 
   } else {
-    return 0;
-    
+    return false;
+
   }
-  
+
 }
 
 function agregarSimboloExclamacion(str) {
@@ -189,7 +189,7 @@ function combinarNombres(nombre, apellido) {
 }
 
 function obtenerSaludo(nombre) {
-  const saludo = "Hola " + nombre;
+  const saludo = "Hola " + nombre + "!";
   return saludo;
   
 }

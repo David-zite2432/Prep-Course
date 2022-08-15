@@ -1,0 +1,13 @@
+# For
+-Se trata de un bucle definido, es decir, una estructura que me permite repetir un código determinado ciertas veces y es
+definido porque con solo mirar el bucle puedo hacerme una idea de cuantas veces se va a repetir, contrario a lo que sucede
+con el while.
+
+# &&
+- Es un operador lógico que devuelve true si todas las condiciones a evaluar se cumplen.
+
+# ||
+- Es un operador lógico que devueve true si por lo menos una de las condiciones evaluadas se cumplen.
+
+# !
+- Es un operador lógico que devuelve true si cierto valor booleano es false.

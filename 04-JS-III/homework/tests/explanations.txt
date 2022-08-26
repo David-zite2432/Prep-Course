@@ -1,0 +1,3 @@
+#Arrays
+- Son matrices, es decir, variables, que a diferencia de las demas, pueden almacenar más de un elemento en su interior
+de cualquier tipo de dato. 
